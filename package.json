@@ -1,7 +1,7 @@
 {
-  "name": "test-backend-master",
+  "name": "test_node",
   "version": "0.0.1",
-  "description": "",
+  "description": "Nest TypeScript starter repository",
   "author": "",
   "private": true,
   "license": "UNLICENSED",
